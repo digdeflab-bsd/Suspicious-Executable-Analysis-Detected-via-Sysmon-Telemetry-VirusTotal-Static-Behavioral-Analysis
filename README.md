@@ -1,13 +1,16 @@
 # Suspicious-Executable-Analysis-Detected-via-Sysmon-Telemetry-VirusTotal-Static-Behavioral-Analysis
 
+![VirusTotal](https://img.shields.io/badge/-VirusTotal-394EFF?style=for-the-badge&logo=VirusTotal&logoColor=white)
 
-*This report was produced for educational and portfolio purposes in a controlled virtual lab environment. All analysis was conducted on systems owned and controlled by the analyst. No unauthorised access to any system was performed. This report does not constitute legal advice. All findings should be verified in your specific environment before taking action.*
+*This report was produced for educational and portfolio purposes in a controlled virtual lab environment. Based solely on data provided by the analyst (Virustotal report and analyst virtual lab). All inferences are labeled as such. No external threat intelligence databases were queried. This report does not constitute a definitive legal or forensic finding. It must be reviewed and validated in the context of the specific environment where this software was or may be deployed.*
 
 <div>
     <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=YouTube&logoColor=white" />
 </div>
 
-https://youtu.be/QbyF5Id6iA0
+| Scanner | Analyst Virtual Lab YT Video |
+| --- | ---|
+| Virustotal | https://youtu.be/QbyF5Id6iA0 |
 
 # Cybersecurity Investigation Report
 ## Suspicious Executable Analysis: ISOMate.exe (SySCute)
